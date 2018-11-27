@@ -18,3 +18,5 @@ C:\wsDotNet\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCom
 C:\wsDotNet\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 C:\wsDotNet\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
 C:\wsDotNet\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\wsDotNet\DependencyInjectionDemo\ConsoleUI\bin\Debug\Autofac.dll
+C:\wsDotNet\DependencyInjectionDemo\ConsoleUI\bin\Debug\Autofac.xml
