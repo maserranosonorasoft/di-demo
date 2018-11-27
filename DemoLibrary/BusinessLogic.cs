@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DemoLibrary
 {
-    public class BusinessLogic
+    public class BusinessLogic : IBusinessLogic
     {
         public void ProcessData()
         {
