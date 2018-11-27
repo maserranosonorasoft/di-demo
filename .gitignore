@@ -65,6 +65,7 @@ local.properties
 .vscode/
 .vs/
 /.vs/
+.vs/DependencyInjectionDemo/v15
 
 ######################
 # Maven
